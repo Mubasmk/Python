@@ -1,3 +1,9 @@
+"""hai all, first of all i wish to say thank you guys who behind crossroad..
+   especially nikhil sir.."""
+# this is my first python project by using Tkinter Library
+
+
+
 # import everything using tkinter module
 from tkinter import *
 
